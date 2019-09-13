@@ -10,7 +10,7 @@
     "versionCode": "19308",
     "link": "https://raw.githubusercontent.com/afxefx/magisk_files/master/canary_builds/magisk-debug.zip",
     "note": "https://raw.githubusercontent.com/afxefx/magisk_files/master/canary_builds/notes.md",
-    "md5": "1c81723e76a74940ac8017c48bfe4487"
+    "md5": "363edaf16eea56f8746dfc4966392fb5"
   },
   "uninstaller": {
     "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/master/canary_builds/magisk-uninstaller.zip"
